@@ -1,0 +1,83 @@
+<response>
+	<result name="response" numFound="3" start="0" maxScore="7.5340056">
+		<doc>
+			<str name="id">10.1371/journal.pone.0203948</str>
+			<str name="journal">PLOS ONE</str>
+			<str name="eissn">1932-6203</str>
+			<date name="publication_date">2018-09-21T00:00:00Z</date>
+			<str name="article_type">Research Article</str>
+			<arr name="author_display">
+				<str>Tara D. Sutherland</str>
+				<str>Alagacone Sriskantha</str>
+				<str>Trevor D. Rapson</str>
+				<str>Benjamin D. Kaehler</str>
+				<str>Gavin A. Huttley</str>
+			</arr>
+			<arr name="abstract">
+				<str>
+Many of the challenges we currently face as an advanced society have been solved in unique ways by biological systems. One such challenge is developing strategies to avoid microbial infection. Social aculeates (wasps, bees and ants) mitigate the risk of infection to their colonies using a wide range of adaptations and mechanisms. These adaptations and mechanisms are reliant on intricate social structures and are energetically costly for the colony. It seems likely that these species must have had alternative and simpler mechanisms in place to ensure the maintenance of hygienic domicile conditions prior to the evolution of these complex behaviours. Features of the aculeate coiled-coil silk proteins are reminiscent of those of naturally occurring α-helical antimicrobial peptides (AMPs). In this study, we demonstrate that peptides derived from the aculeate silk proteins have antimicrobial activity. We reconstruct the predicted ancestral silk sequences of an aculeate ancestor that pre-dates the evolution of sociality and demonstrate that these ancestral sequences also contained peptides with antimicrobial properties. It is possible that the silks evolved as an antifouling material and facilitated the evolution of sociality. These materials serve as model materials for consideration in future biomaterial development.
+				</str>
+			</arr>
+			<str name="title_display">Did aculeate silk evolve as an antifouling material?</str>
+			<float name="score">7.5340056</float>
+		</doc>
+		<doc>
+			<str name="id">10.1371/journal.pbio.2005642</str>
+			<str name="journal">PLOS Biology</str>
+			<str name="eissn">1545-7885</str>
+			<date name="publication_date">2018-09-12T00:00:00Z</date>
+			<str name="article_type">Research Article</str>
+			<arr name="author_display">
+				<str>Alessandro D. Uboldi</str>
+				<str>Mary-Louise Wilde</str>
+				<str>Emi A. McRae</str>
+				<str>Rebecca J. Stewart</str>
+				<str>Laura F. Dagley</str>
+				<str>Luning Yang</str>
+				<str>Nicholas J. Katris</str>
+				<str>Sanduni V. Hapuarachchi</str>
+				<str>Michael J. Coffey</str>
+				<str>Adele M. Lehane</str>
+				<str>Cyrille Y. Botte</str>
+				<str>Ross F. Waller</str>
+				<str>Andrew I. Webb</str>
+				<str>Malcolm J. McConville</str>
+				<str>Christopher J. Tonkin</str>
+			</arr>
+			<arr name="abstract">
+				<str>
+The phylum Apicomplexa comprises a group of obligate intracellular parasites that alternate between intracellular replicating stages and actively motile extracellular forms that move through tissue. Parasite cytosolic Ca2+ signalling activates motility, but how this is switched off after invasion is complete to allow for replication to begin is not understood. Here, we show that the cyclic adenosine monophosphate (cAMP)-dependent protein kinase A catalytic subunit 1 (PKAc1) of Toxoplasma is responsible for suppression of Ca2+ signalling upon host cell invasion. We demonstrate that PKAc1 is sequestered to the parasite periphery by dual acylation of PKA regulatory subunit 1 (PKAr1). Upon genetic depletion of PKAc1 we show that newly invaded parasites exit host cells shortly thereafter, in a perforin-like protein 1 (PLP-1)-dependent fashion. Furthermore, we demonstrate that loss of PKAc1 prevents rapid down-regulation of cytosolic [Ca2+] levels shortly after invasion. We also provide evidence that loss of PKAc1 sensitises parasites to cyclic GMP (cGMP)-induced Ca2+ signalling, thus demonstrating a functional link between cAMP and these other signalling modalities. Together, this work provides a new paradigm in understanding how Toxoplasma and related apicomplexan parasites regulate infectivity.
+Author summary: Central to pathogenesis and infectivity of Toxoplasma and related parasites is their ability to move through tissue, invade host cells, and establish a replicative niche. Ca2+-dependent signalling pathways are important for activating motility, host cell invasion, and egress, yet how this signalling is turned off after invasion is unclear. Here, we show that a cAMP-dependent protein kinase A (PKA) is essential for rapid suppression of Ca2+ signalling upon completion of host cell invasion. Parasites lacking this kinase rapidly invoke an egress program to re-exit host cells, thus preventing the establishment of a stable infection. This finding therefore highlights the first factor required for Toxoplasma (and any related apicomplexan parasite) to switch from invasive to the replicative forms. </str>
+			</arr>
+			<str name="title_display">Protein kinase A negatively regulates Ca<sup>2+</sup> signalling in <i>Toxoplasma gondii</i>
+			</str>
+			<float name="score">5.643775</float>
+		</doc>
+		<doc>
+			<str name="id">10.1371/journal.pone.0201696</str>
+			<str name="journal">PLOS ONE</str>
+			<str name="eissn">1932-6203</str>
+			<date name="publication_date">2018-09-12T00:00:00Z</date>
+			<str name="article_type">Research Article</str>
+			<arr name="author_display">
+				<str>Naomi Priest</str>
+				<str>Natalie Slopen</str>
+				<str>Susan Woolford</str>
+				<str>Jeny Tony Philip</str>
+				<str>Dianne Singer</str>
+				<str>Anna Daly Kauffman</str>
+				<str>Kathryn Mosely</str>
+				<str>Matthew Davis</str>
+				<str>Yusuf Ransome</str>
+				<str>David Williams</str>
+			</arr>
+			<arr name="abstract">
+				<str>
+This study examined the prevalence of racial/ethnic stereotypes among White adults who work or volunteer with children, and whether stereotyping of racial/ethnic groups varied towards different age groups. Participants were 1022 White adults who volunteer and/or work with children in the United States who completed a cross-sectional, online survey. Results indicate high proportions of adults who work or volunteer with children endorsed negative stereotypes towards Blacks and other ethnic minorities. Respondents were most likely to endorse negative stereotypes towards Blacks, and least likely towards Asians (relative to Whites). Moreover, endorsement of negative stereotypes by race was moderated by target age. Stereotypes were often lower towards young children but higher towards teens.
+				</str>
+			</arr>
+			<str name="title_display">Stereotyping across intersections of race and age: Racial stereotyping among White adults working with children</str>
+			<float name="score">4.006559</float>
+		</doc>
+	</result>
+</response>
